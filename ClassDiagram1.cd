@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuanLyThuoc.ListUser" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAQAIAAAAAAAA=</HashCode>
+      <FileName>System\AccountInformation\ListUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ucAccountInformation" Collapsed="true">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kQAAABAAQCAQABAAAACIBAACAAEAAAAABAAAQQBAAEA=</HashCode>
+      <FileName>System\AccountInformation\ucAccountInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.User" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIARAAAAEQAAAQAAAMEAAADAQAAAAEAAAA=</HashCode>
+      <FileName>System\AccountInformation\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.frmLogIn" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAUQECAAABAAEACgAAAKQCAAAAAABgAIAAAAAAA=</HashCode>
+      <FileName>Login\frmLogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.Drugs" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAICAQACACEQAAAgEAAAAAAACAAAIAgAACAAA=</HashCode>
+      <FileName>System\Drug\Drugs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ListDrug" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>System\Drug\ListDrug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ucDrug" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAkAgiACCEHBEAAACAAAATEABAgCRAUSHAgAQAAQY=</HashCode>
+      <FileName>System\Drug\ucDrug.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QuanLyThuoc.frmMain" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <Members>
+      <Property Name="IReset" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EYAACABAGiAADDACFADgBoADQAAAQgQIKQCiAQMIAAA=</HashCode>
+      <FileName>System\frmMain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IReset" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QuanLyThuoc.ImportDrug" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAUAAAAEAAAAAACAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>System\ImportDrug\ImportDrug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ListImportDrug" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA=</HashCode>
+      <FileName>System\ImportDrug\ListImportDrug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ucImportDrug" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AAAkgAgADCABHEAAACQAERyBAAAgDQQACEAiAIAgQY=</HashCode>
+      <FileName>System\ImportDrug\ucImportDrug.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QuanLyThuoc.ucImportDrugStatistic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACACAEGBAAAACAAAACBAAAAAAAGCCAgAAAAEA=</HashCode>
+      <FileName>System\ImportDrug\ucImportDrugStatistic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QuanLyThuoc.ListPatient" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAACAAAAAgA=</HashCode>
+      <FileName>System\Patient\ListPatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.Patient" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAAQAgAAEABAAgAAwAYQAAAEEAAAAAAAAAA=</HashCode>
+      <FileName>System\Patient\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ucPatientStatistic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACACAEGBAAAACAhAACAAAAAAAAECCAgAQAAAA=</HashCode>
+      <FileName>System\Patient\ucPatientStatistic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QuanLyThuoc.ListSoldDrug" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAABAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>System\Prescription\ListSoldDrug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.SoldDrug" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAISAAICAAACAAAAAAAAQAAACEAAIAgAACAAA=</HashCode>
+      <FileName>System\Prescription\SoldDrug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ucPrescription" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AEEoAAAFSAAFBEAAACgQERiIAAAwRACACUQwQIAgwY=</HashCode>
+      <FileName>System\Prescription\ucPrescription.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QuanLyThuoc.ucPrescriptionStatistic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACACAEGBAAAACAAAACAAIAAIQAECCAgAAAAAA=</HashCode>
+      <FileName>System\Prescription\ucPrescriptionStatistic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QuanLyThuoc.Provider" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAgAAAAIA=</HashCode>
+      <FileName>System\Provider\Provider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyThuoc.ucProvider" Collapsed="true">
+    <Position X="9.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAAAACECAACBAAAACIIAACAAAAgAAAACGAgAAAAQY=</HashCode>
+      <FileName>System\Provider\ucProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl" Collapsed="true">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="QuanLyThuoc.CreateOrReset.ICreate">
+    <Position X="1" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreateOrReset\ICreate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QuanLyThuoc.CreateOrReset.IReset">
+    <Position X="1" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreateOrReset\IReset.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
